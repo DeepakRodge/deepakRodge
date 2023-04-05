@@ -1,0 +1,21 @@
+Xpath by text
+note:it is case sensitve
+
+Syntax:
+//tagname[text()='textvalue']
+
+Groccery
+//div[text()='Grocery']
+
+
+top offers
+//div[text()='Top Offers']
+
+mobile 
+//div[text()='Mobiles']
+
+ Appliance
+//div[text()='Appliances']
+
+
+
